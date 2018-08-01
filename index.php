@@ -12,5 +12,6 @@ phpinfo();
 
 ?>
 <p>test build #1</p>
+<p>test build #2</p>
 </body>
 </html>
