@@ -4,7 +4,9 @@
 </meta>
 <body>
 
+<h1>testtest github hook</h1>
 <?php
+
 
 phpinfo();
 
