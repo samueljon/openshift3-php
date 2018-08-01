@@ -11,6 +11,6 @@
 phpinfo();
 
 ?>
-
+<p>test build #1</p>
 </body>
 </html>
